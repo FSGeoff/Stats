@@ -1,6 +1,6 @@
 # Typesript Application
 
-### Set Up
+### Project Set Up
 - npm init -y
 - tsc --init
 - npm i nodemon concurrently
@@ -22,6 +22,6 @@
 - Go to the terminal and run __npm start__
 
 This will run nodemon and configure your Typescript files concurrently</br>
-The following should be displayed in your terminal above your console.log
+The following should be displayed in your terminal above your console.log statement
 
 ## ​​[start:*run] [nodemon] clean exit - waiting for changes before restart
