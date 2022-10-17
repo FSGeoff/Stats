@@ -1,6 +1,7 @@
 # Typesript Application
 
 ### Project Set Up
+#### The following steps is for the set up to run in Node.js working directly with the Typescript compiler
 - npm init -y
 - tsc --init
 - npm i nodemon concurrently
@@ -15,8 +16,8 @@
     Edit to "outDir": "./build"</br>
 - open _package.json_
 - go to the scripts section
-- Delete the existing text script and replace with:
-+   "start:build": "tsc-w", </br>
+- Delete the existing test script and replace with:
++   "start:build": "tsc -w", </br>
     "start:run": "nodemon build/index.js", </br>
     "start": "concurrently npm:start:*"
 - Go to the terminal and run __npm start__
