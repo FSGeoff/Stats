@@ -27,4 +27,4 @@ The following should be displayed in your terminal above your console.log statem
 
 ## ​​[start:*run] [nodemon] clean exit - waiting for changes before restart
 
-_You may have to stop and rerun __npm start__ a few times as nodemon sometimes launches before the Typscript compiler_
+_Initially, you may have to stop and rerun __npm start__ a few times as nodemon</br> sometimes launches before the Typscript compiler has completed_
