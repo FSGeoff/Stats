@@ -26,3 +26,5 @@ This will run nodemon and configure your Typescript files concurrently</br>
 The following should be displayed in your terminal above your console.log statement
 
 ## ​​[start:*run] [nodemon] clean exit - waiting for changes before restart
+
+_You may have to stop and rerun __npm start__ a few times as nodemon sometimes launches before the Typscript compiler_
