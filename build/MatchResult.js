@@ -1,10 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.MatchResults = void 0;
-var MatchResults;
-(function (MatchResults) {
-    MatchResults["HomeWin"] = "H";
-    MatchResults["AwayWin"] = "A";
-    MatchResults["Draw"] = "D";
-})(MatchResults = exports.MatchResults || (exports.MatchResults = {}));
+exports.MatchResult = void 0;
+var MatchResult;
+(function (MatchResult) {
+    MatchResult["HomeWin"] = "H";
+    MatchResult["AwayWin"] = "A";
+    MatchResult["Draw"] = "D";
+})(MatchResult = exports.MatchResult || (exports.MatchResult = {}));
 ;
